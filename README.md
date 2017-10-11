@@ -1,0 +1,2 @@
+# spotify-bin
+Spotify binaries
